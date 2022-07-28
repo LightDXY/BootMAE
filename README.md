@@ -1,6 +1,6 @@
 # BootMAE, ECCV2022
 
-This repo is the official implementation of ["Bootstrapped Masked Autoencoders for Vision BERT Pretraining"](https://arxiv.org/abs/).
+This repo is the official implementation of ["Bootstrapped Masked Autoencoders for Vision BERT Pretraining"](https://arxiv.org/abs/2207.07116v1).
 
 ## Introduction
 
