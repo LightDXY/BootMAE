@@ -137,9 +137,9 @@ This repository is modified from [BEiT](https://github.com/microsoft/unilm/tree/
 # Citation
 If you use this code for your research, please cite our paper.
 ```
-@article{dong2022ict,
+@article{dong2022bootstrapped,
   title={Bootstrapped Masked Autoencoders for Vision BERT Pretraining},
-  author={Xiaoyi Dong, Jianmin Bao, Ting Zhang, Dongdong Chen, Weiming Zhang, Lu Yuan, Dong Chen, Fang Wen, Nenghai Yu},
+  author={Dong, Xiaoyi and Bao, Jianmin and Zhang, Ting and Chen, Dongdong and Zhang, Weiming and Yuan, Lu and Chen, Dong and Wen, Fang and Yu, Nenghai},
   journal={arXiv preprint arXiv:2207.07116},
   year={2022}
 }
